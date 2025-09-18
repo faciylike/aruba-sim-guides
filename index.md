@@ -68,3 +68,10 @@ layout: default
 
 　　*希望这份指南能帮你扫清障碍。在阿鲁巴，保持连接，然后尽情享受阳光和沙滩吧！*
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Aruba eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/aruba-data-plans)
